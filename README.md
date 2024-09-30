@@ -5,19 +5,19 @@ Eye Blink Detection using OpenCV
 
 Table of Contents:
   
-  -Overview
+    -Overview
   
-  -Prerequisites
+    -Prerequisites
   
-  -Usage
+    -Usage
   
-  -Code Structure
+    -Code Structure
 
-Overview:
+**Overview:**
 
 This project implements an eye blink detection system using OpenCV. The system captures video from a webcam, detects faces and eyes, and determines when a user blinks based on the eye aspect ratio (EAR). This technology can be utilized in various applications such as driver monitoring systems, attention tracking, and human-computer interaction.
 
-Prerequisites:
+**Prerequisites:**
   
   -Python 3.x
   
@@ -25,7 +25,7 @@ Prerequisites:
   
   -NumPy
 
-Usage:
+**Usage:**
 
 1.Open your terminal or command prompt.
 
@@ -39,7 +39,7 @@ Usage:
 
 5.Press 'q' to quit the application.
 
-Code Structure:
+**Code Structure:**
 
   eye_blink_detection.py: The main script for eye blink detection. It contains the logic for face and eye detection, as well as the blink detection using the eye aspect ratio.
   README.md: This file, which contains an overview of the project, installation instructions, and usage details.
