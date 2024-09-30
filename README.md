@@ -15,7 +15,9 @@ Table of Contents:
 
 **Overview:**
 
-    This project implements an eye blink detection system using OpenCV. The system captures video from a webcam, detects faces and eyes, and determines when a user blinks based on the eye aspect ratio (EAR). This technology can be utilized in various applications such as driver monitoring systems, attention tracking, and human-computer interaction.
+    This project implements an eye blink detection system using OpenCV. 
+    The system captures video from a webcam, detects faces and eyes, and determines when a user blinks based on the eye aspect ratio (EAR). 
+    This technology can be utilized in various applications such as driver monitoring systems, attention tracking, and human-computer interaction.
 
 **Prerequisites:**
   
